@@ -198,7 +198,7 @@ export default {
                             }
                         });
 
-                   */ default:
+                    default:
                         // return new Response('Not found', { status: 404 });
                         url.hostname = '172.66.47.23';
                         url.protocol = 'https:';
